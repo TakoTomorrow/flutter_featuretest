@@ -1,4 +1,4 @@
-# best_flutter_ui_templates
+# flutter_redis
 
 A new Flutter project.
 
